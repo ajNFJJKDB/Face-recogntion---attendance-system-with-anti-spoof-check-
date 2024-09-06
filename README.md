@@ -1,8 +1,3 @@
-# Face-recogntion---attendance-system-with-anti-spoof-check-
-Here’s a sample README file for a GitHub repository on your project, *Face Recognition Based Attendance System*:
-
----
-
 # Face Recognition Based Attendance System
 
 ## Project Description
