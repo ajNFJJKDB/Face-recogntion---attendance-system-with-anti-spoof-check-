@@ -1,6 +1,6 @@
 # Face Recognition Based Attendance System
 
-Project report - ML_project.pdf
+Project report - ML_project.pdf (elaborate version)
 
 ## Project Description
 This project aims to automate the attendance process in educational settings using face recognition technology. By leveraging advanced machine learning techniques and image processing, the system offers a reliable, efficient, and secure method for recording student attendance.
